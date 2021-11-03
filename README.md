@@ -7,4 +7,4 @@ The rain is coming. But it is of little worry. I, after all, have an umbrella wi
 I can't find it!
 This must be a mistake, I thought to myself. Did I leave it in my lab?
 
-Oh man, I'm already at the bustop!
+Oh man, but I'm already at the bustop!
