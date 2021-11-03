@@ -1,2 +1,2 @@
 # afec-xtbg-2021
-# this is a tutorial
+# this is a tutorial for reproducibility
